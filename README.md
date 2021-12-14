@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there! I'm a cryptographic algorithm optimization developer using C/CUDA C.
 
 <!--
 **ondoli0312/ondoli0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
